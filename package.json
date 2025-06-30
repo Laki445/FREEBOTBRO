@@ -1,0 +1,14 @@
+{
+  "name": "render-bot-fixed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pino": "^8.14.2",
+    "@hapi/boom": "^11.1.0",
+    "@whiskeysockets/baileys": "^6.5.0"
+  }
+}
